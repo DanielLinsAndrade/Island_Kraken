@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chill Island
+* source:	https://sketchfab.com/3d-models/chill-island-38797cc1607a4a40acb1e73965e7126b
+* author:	Feathr0z (https://sketchfab.com/Feathr0z)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chill Island" (https://sketchfab.com/3d-models/chill-island-38797cc1607a4a40acb1e73965e7126b) by Feathr0z (https://sketchfab.com/Feathr0z) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)

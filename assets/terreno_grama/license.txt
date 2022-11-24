@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grassy_Terrain
+* source:	https://sketchfab.com/3d-models/grassy-terrain-ec6ad25ef0584c858bf6a0799003bee3
+* author:	OneHeadFilms (https://sketchfab.com/OneHeadFilms)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grassy_Terrain" (https://sketchfab.com/3d-models/grassy-terrain-ec6ad25ef0584c858bf6a0799003bee3) by OneHeadFilms (https://sketchfab.com/OneHeadFilms) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
